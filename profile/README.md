@@ -24,5 +24,6 @@ Leadership
 Collaboration
 
 ## More Information
-Website: https://fragmentsofhope.org/
+Website: https://fragmentsofhope.org/ <br>
+Contact: info@fragmentsofhope.org
 GitHub: https://github.com/foh-projects
