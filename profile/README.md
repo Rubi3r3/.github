@@ -1,4 +1,4 @@
-# Welcome to Fragments of Hope! <img src="https://github.com/foh-projects.png" align="right" height="100" />
+# Welcome to Fragments of Hope! <img src="https://github.com/foh-projects.png" align="right" height="70" />
 
 ### Coral Restoration | Belize
 
