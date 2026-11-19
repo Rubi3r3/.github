@@ -16,12 +16,12 @@ To re-seed devastated reefs with genetically robust, diverse and resilient coral
  
 
 ## Values
-Community
-Sustainability
-Leadership
-Collaboration
+Community <br>
+Sustainability <br>
+Leadership <br>
+Collaboration <br>
 
 ## More Information
 Website: https://fragmentsofhope.org/ <br>
-Contact: info@fragmentsofhope.org
-GitHub: https://github.com/foh-projects
+Contact: info@fragmentsofhope.org <br>
+GitHub: https://github.com/foh-projects <br>
