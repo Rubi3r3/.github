@@ -37,7 +37,7 @@ GitHub: https://github.com/foh-projects <br>
 You can see other Fragments of Hope, Belize staff projects and collaborators at their profies: 
 
 - Ethan R. Deyle, PhD ([nonlinearnature](https://nonlinearnature.github.io/))
-- Rubiere Ramirez ([rubi3r3](https://github.com/rubi3r3))
+- Rubiere Ramirez, MSc Student ([rubi3r3](https://github.com/rubi3r3))
 
 
 
