@@ -1,4 +1,4 @@
-# Fragments of Hope, Belize
+# Welcome to Fragments of Hope! <img src='https://fragmentsofhope.org/wp-content/uploads/2015/11/logo.png' align="right" height="70" />
 
 ### Coral Restoration | Belize
 
