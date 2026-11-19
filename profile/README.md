@@ -1,7 +1,5 @@
 # Welcome to Fragments of Hope! <img src="https://github.com/foh-projects.png" align="right" height="140" />
 
-### Coral Restoration | Belize
-
 ## About Us
 Fragments of Hope is a not-for-profit community-based organization registered in 2013 in Placencia Village, Belize.  Focusing primarily on the challenge of coral reef restoration and advocacy for the sustainable management of associated habitats, FoH is a partner with the Belize Fisheries Department, Healthy Reefs Initiative, the Smithsonian Institute and a member of the newly formed regional Coral Restoration Coalition.  Our work involves efforts from trained fishers, tour guides, regulatory agencies and a handful of local community members volunteering towards our diverse objectives:
  
