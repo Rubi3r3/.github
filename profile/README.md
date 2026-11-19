@@ -36,9 +36,9 @@ GitHub: https://github.com/foh-projects <br>
 
 You can see other Fragments of Hope, Belize staff projects and collaborators at their profies: 
 
-- Ethan R. Deyle, PhD, Assistant Professor, Tufts University ([nonlinearnature](https://nonlinearnature.github.io/))
-- Cat Hauser, PhD Candidate, Boston University([cathauser5](https://cathauser5.github.io/))
-- Rubiere Ramirez, MSc Student, Universityo of Salzburg ([rubi3r3](https://github.com/rubi3r3))
+- Ethan R. Deyle, PhD, Assistant Professor, [Tufts University](https://www.tufts.edu/)([nonlinearnature](https://nonlinearnature.github.io/))
+- Cat Hauser, PhD Candidate, [Boston University](https://www.bu.edu/)([cathauser5](https://cathauser5.github.io/))
+- Rubiere Ramirez, MSc Student, [Universität Salzburg](https://www.plus.ac.at/?lang=en) ([rubi3r3](https://github.com/rubi3r3))
 
 
 
