@@ -13,7 +13,6 @@ reef restoration and marine conservation in Belize.
 - Coral restoration and monitoring
 - Coral population databases
 - Geospatial data management
-- Marine spatial analysis
 - Open-source GIS tools
 - Environmental monitoring
 
@@ -25,7 +24,6 @@ reef restoration and marine conservation in Belize.
 - R
 - Google Earth Engine
 - GeoPackage
-- GitHub
 
 ## Projects
 
