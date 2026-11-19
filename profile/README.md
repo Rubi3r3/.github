@@ -1,12 +1,12 @@
-# Fragments of Hope
+# Fragments of Hope, Belize
 
 ### Coral Restoration | Belize
 
-Welcome to the GitHub organization of Fragments of Hope!
+Welcome to Fragments of Hope, Belize.
 
 We use science, technology, geospatial data,
 and collaborative research to support coral
-reef restoration and marine conservation in Belize.
+reef restoration in Belize.
 
 ## Our Work
 
@@ -22,8 +22,6 @@ reef restoration and marine conservation in Belize.
 - PostGIS
 - Python
 - R
-- Google Earth Engine
-- GeoPackage
 
 ## Projects
 
