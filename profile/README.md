@@ -1,6 +1,6 @@
 # Fragments of Hope
 
-### Coral Restoration | Marine Conservation | Belize
+### Coral Restoration | Belize
 
 Welcome to the GitHub organization of Fragments of Hope!
 
