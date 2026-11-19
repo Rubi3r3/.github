@@ -34,7 +34,7 @@ GitHub: https://github.com/foh-projects <br>
 
 ## Other Staff and their Work 
 
-You can see other Fragments of Hope, Belize staff projects and collaborators at their profies: 
+You can see other Fragments of Hope, Belize staff projects and collaborators at their profiles: 
 
 - Ethan R. Deyle, PhD, Assistant Professor, [Boston University](https://www.bu.edu/) | [Tufts University](https://www.tufts.edu/) ([nonlinearnature](https://nonlinearnature.github.io/))
 - Les Kaufman, PhD, Professor of Biology, [Boston University](https://www.bu.edu/) ([Les Kaufman](https://www.bu.edu/biology/people/profiles/les-kaufman/))
